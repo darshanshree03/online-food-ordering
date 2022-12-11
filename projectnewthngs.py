@@ -32,8 +32,8 @@ def custname_validity():
             else:
                 n+=1
         if n!=0:    
-            print('THERE IS NO ACCOUNT IN THIS CUSTOMER NAME!')
-            print('ENTER A VALID CUSTOMER NAME OR CREATE A NEW ACCOUNT')
+            print('THERE IS NO ACCOUNT IN THIS CUSTOMER ID!')
+            print('ENTER A VALID CUSTOMER ID OR CREATE A NEW ACCOUNT')
 
 def paswd_validity():
     n=0
